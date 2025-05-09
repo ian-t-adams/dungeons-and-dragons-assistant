@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Test and coverage
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Docker
+*.log
+dist/
+build/
