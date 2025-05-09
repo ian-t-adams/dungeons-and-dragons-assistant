@@ -36,4 +36,3 @@ This project uses FastAPI (Python) for the backend and React for the frontend. I
 - Never hardcode credentials; use Azure Key Vault
 - Implement error handling and logging
 - Prepare for deployment as an Azure Web App or Container App
->>>>>>> afa2995 (Initial project structure and setup)
